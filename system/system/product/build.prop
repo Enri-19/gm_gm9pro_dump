@@ -1,0 +1,12 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=default
+ro.config.ringtone=GeneralMobile.mp3
+ro.config.notification_sound=hangouts_message.ogg
+ro.config.alarm_alert=Oxygen.ogg
+ro.opa.eligible_device=true
+setupwizard.feature.predeferred_enabled=false
+ro.com.google.gmsversion=Q_beta
+
